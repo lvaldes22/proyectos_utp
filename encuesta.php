@@ -1,6 +1,6 @@
 <HTML LANG="es">
     <HEAD>
-        <TITLE>Laboratorio 10.1</TITLE>
+        <TITLE>Proyecto No 1</TITLE>
         <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo.css">
 </HEAD>
 <BODY>
